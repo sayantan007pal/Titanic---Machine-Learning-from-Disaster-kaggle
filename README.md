@@ -22,9 +22,8 @@ Key preprocessing steps include:
 ## Model and Accuracy
 The following models were used to predict survival:
 
-1. **Random Forest Classifier**
-   - Validation Accuracy: **81.56%**
-2. **Logistic Regression (with clean preprocessing)**
+
+1. **Logistic Regression (with clean preprocessing)**
    - Validation Accuracy: **80.45%**
 
 ## File Descriptions
